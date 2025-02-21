@@ -9,3 +9,5 @@ cd $pwd
 # Install CDK CLI
 npm install -g aws-cdk
 cdk --version
+
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
